@@ -1,9 +1,9 @@
-streamlit
-Pillow
-pytesseract
-pyttsx3
-opencv-python
-numpy
-langchain
-langchain-google-genai
-gTTS
+streamlit==1.21.0
+Pillow>=9.5.0
+pytesseract>=0.3.13  # Latest version compatible with most environments
+pyttsx3==2.90
+opencv-python>=4.8.0.76
+numpy>=1.23.0
+langchain>=0.0.123
+langchain-google-genai>=0.0.4
+gTTS==2.3.2
