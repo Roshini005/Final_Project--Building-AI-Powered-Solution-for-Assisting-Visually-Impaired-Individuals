@@ -1,0 +1,9 @@
+streamlit==1.21.0
+Pillow==9.5.0
+pytesseract==0.4.10
+pyttsx3==2.90
+opencv-python==4.8.0.74
+numpy==1.23.5
+langchain==0.0.200
+langchain-google-genai==0.0.1
+gTTS==2.3.0
